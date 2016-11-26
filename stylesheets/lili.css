@@ -1,0 +1,11 @@
+.svg-items {
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:space-around;
+  align-items:center;
+}
+.svg-item {
+  width:200px;
+  text-align:center;
+  margin:10px 10px;
+}
